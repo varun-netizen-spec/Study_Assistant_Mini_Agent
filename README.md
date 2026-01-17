@@ -38,5 +38,3 @@ The agent uses **LangChain's agent framework** with custom tools and conversatio
 
 ---
 
-## 📂 Project Structure
-
