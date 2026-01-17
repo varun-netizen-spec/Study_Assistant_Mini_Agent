@@ -1,0 +1,3 @@
+ollama
+llama3
+langchain
